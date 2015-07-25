@@ -1,3 +1,13 @@
 # dominion-ai
 
-Nothing here yet
+## Setup
+
+```
+npm install
+```
+
+## Run
+
+```
+node bot.js
+```
